@@ -9,10 +9,16 @@ I work on mathematical and learning-based methods for **inverse problems** — r
 
 ---
 
+**Featured**
+
+- [`eit-reconstruction-toolkit`](https://github.com/abdgafartunde/eit-reconstruction-toolkit) — 2-D EIT reconstruction: P1 FEM, adjoint Jacobian, Tikhonov + TV/ADMM
+  [![DOI](https://zenodo.org/badge/1231635377.svg)](https://doi.org/10.5281/zenodo.21037312)
+
+---
+
 **Currently building**
 
-- [`eit-reconstruction-toolkit`](https://github.com/abdgafartunde/eit-reconstruction-toolkit) — EIT reconstruction: classical regularisation + deep learning
-- [`seismic-inversion-ml`](https://github.com/abdgafartunde/seismic-inversion-ml) — physics-informed seismic inversion for subsurface imaging
+- [`seismic-inversion-ml`](https://github.com/abdgafartunde/seismic-inversion-ml) — end-to-end FWI with OpenFWI benchmark data
 - [`medical-imaging`](https://github.com/abdgafartunde/medical-imaging) — compressed sensing for accelerated MRI and CT
 - [`groundwater-detection`](https://github.com/abdgafartunde/groundwater-detection) — ERT inversion for groundwater mapping
 
