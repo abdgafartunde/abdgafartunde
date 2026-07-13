@@ -12,9 +12,7 @@ I work on mathematical and learning-based methods for **inverse problems** — r
 **Featured**
 
 - [`eit-reconstruction-toolkit`](https://github.com/abdgafartunde/eit-reconstruction-toolkit) — 2-D EIT reconstruction: P1 FEM, adjoint Jacobian, Tikhonov + TV/ADMM
-  [![DOI](https://zenodo.org/badge/1231635377.svg)](https://doi.org/10.5281/zenodo.21037312)
 - [`medical-imaging`](https://github.com/abdgafartunde/medical-imaging) — compressed sensing for accelerated MRI and CT
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21321376.svg)](https://doi.org/10.5281/zenodo.21321376)
 
 ---
 
