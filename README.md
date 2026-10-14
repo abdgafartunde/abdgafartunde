@@ -19,7 +19,7 @@ I work on mathematical and learning-based methods for **inverse problems**: reco
 **Currently building**
 
 - [`seismic-inversion-ml`](https://github.com/abdgafartunde/seismic-inversion-ml): end-to-end FWI with OpenFWI benchmark data
-- [`groundwater-detection`](https://github.com/abdgafartunde/groundwater-detection): ERT inversion for groundwater mapping
+- [`ertkit`](https://github.com/abdgafartunde/ertkit): VES and 2.5-D ERT inversion for groundwater exploration, with depth of investigation and uncertainty
 
 ---
 
